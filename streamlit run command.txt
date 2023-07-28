@@ -1,1 +1,1 @@
-streamlit run "multiple disease pred.py"
+streamlit run multiple disease pred.py
